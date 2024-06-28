@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrQwGqCI+0nj9JSF7r8cZ1en5OGRXn/QmiMP/gQ7ZGpFev2OrzCvRrR8iNk+JLDHkTbQtppbkTuBbJpK43dgFg==",
+  "dgSpecHash": "BCLwgw/V2TqiVJCRomUVRQCMcI/nHHaB4vaL4OnYLerKDyzSvlGg3FxFSfPFPs8kzFtRndfbkOsfGmIfcLdtyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512"
   ],

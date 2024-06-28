@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\PacketGenerator\\PacketGenerator.csproj": {}
+    "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\PacketGenerator\\PacketGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\PacketGenerator\\PacketGenerator.csproj": {
+    "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\PacketGenerator\\PacketGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\PacketGenerator\\PacketGenerator.csproj",
+        "projectUniqueName": "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\PacketGenerator\\PacketGenerator.csproj",
         "projectName": "PacketGenerator",
-        "projectPath": "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\PacketGenerator\\PacketGenerator.csproj",
+        "projectPath": "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\PacketGenerator\\PacketGenerator.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\Proto11-ModuleUp\\GameServer\\PacketGenerator\\obj\\",
+        "outputPath": "D:\\01_Unity\\ServerMiniGame\\ServerGame\\GameServer\\PacketGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
